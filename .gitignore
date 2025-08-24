@@ -1,0 +1,12 @@
+# Executables and build artifacts
+calculate
+*.o
+*.out
+
+# Python
+__pycache__/
+*.pyc
+
+# Operating system artifacts
+.DS_Store
+Thumbs.db
